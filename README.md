@@ -11,3 +11,10 @@
 | S395315 | Gian | S395315@students.cdu.edu.au |
 | S396421 | Sandy | S396421@students.cdu.edu.au |
 | S394187 | Evan | S394187@students.cdu.edu.au |
+
+## Screenshot
+
+![result 1](./result-1.png "result 1")
+![result 2](./image-2.png "result 2")
+![result 3](./image-3.png "result 3")
+![result 4](./image-4.png "result 4")
